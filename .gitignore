@@ -1,4 +1,11 @@
-#exclude binary files
+#exclude binary folder
 
 /bin/*
+
+#ingnore binaries files
+*.exe
+*.dll
+
+#include
+#!/bin/*.xml = all xml files
 !/bin/application.xml
