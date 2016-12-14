@@ -1,0 +1,4 @@
+#exclude binary files
+
+/bin/*
+!/bin/application.xml
